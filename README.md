@@ -26,4 +26,4 @@ The dashboard gathers data from two primary sources:
 * File size optimization using DAX Studio
 * Data integration from various sources like Excel/CSV files, MySQL database, etc.
 
-## Check out my live dashboard here: [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmE3Mjc0NmQtYjY5MS00OWJjLThlMTktMDg3OTFjYzRkMTIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## Check out my live dashboard here: [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmMzNmEyNzQtMWNjNC00MDZhLWI3NmItZmZjZmE5YjFiMmNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
